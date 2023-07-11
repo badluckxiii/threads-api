@@ -37,9 +37,9 @@ bum run
   - lib
   - types
 
-En `api` se ocupara de la parte del routing 
-En `lib` estan las diferentes constantes, variables de entorno, fetch y mapping
-En `type` se almacenaran los tipos personalizados.  
+<p>En `api` se ocupara de la parte del routing.</p>
+<p>En `lib` estan las diferentes constantes, variables de entorno, fetch y mapping.</p>
+</p>En `type` se almacenaran los tipos personalizados de typescript. </p>
 5.
 
 6.
